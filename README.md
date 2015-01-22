@@ -18,7 +18,7 @@ and add the following line (with your plugins and theme of choice) into your aut
 
 <pre>
 <code>
-zeesh_bundler -b oh-my-zeesh -p "any plugins you'd like to use" -t the_theme_you'd_like_to_use -c
+zbn -b oh-my-zeesh -p "any plugins you'd like to use" -t the_theme_you'd_like_to_use -c
 </code>
 </pre>
 
